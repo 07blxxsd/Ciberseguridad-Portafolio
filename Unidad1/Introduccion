@@ -24,3 +24,31 @@ El atacante se interpone en la comunicación entre el usuario y el servidor pued
 - Interceptar datos sensibles
 - Saber que apps tiene instaladas - Saber que apps tiene abiertas
 
+** Contraseñas seguras
+Para poder tener una contraseña segura uno de los pasos mas importantes es que debe de tener como minimo 12 caracteres combinado con simbolos, mayusculas y minisculas y lo mas importante que la contraseña
+que la contraseña sea unica, no se debe de repetir porque si cae una caen todas y esto puede llegar a traes varios robos y esto significa compras no deseadas.
+
+-- Aunteticacion Multifactor (MFA)
+Este se basa en que si llegan a saber mi contraseña el MFA hace una segunda clave esta clave seria una clave que me llega a mi gesto como por ejemplo Google Authenticator ya que este lo que hace es que cada 30 segundos
+crea una nueva clave de tantos digitos existen varios tipos de MFA via mensaje de texto pero este es de un nivel mas bajo ya que pueden llegar a interceptar y robar el codigo lo mas seguros serian apps de autenticador y
+las llaves fisicas esas son las que llegan a pedir tu huella o tu cara como clave este es el mejor ya que puede llegar a deter hasta un ataque intermedio, por esa razon proteger tus contraseñas con autenticasscion multifacor 
+no es para nada opcional es fundamental.
+
+-- ¿Qué es exactamente la autenticacion multifacor?
+En un termino sencillo se trata de poder doble seguridad o mas de manera biometrica o con un authenticator que genere un codigo cada 30 segundos 
+este se divide por 3 factores importantes Conocimiento, Posesion, Inherencia.
+*Conocimiento: Es algo que el usuario debe saber como su contraseña.
+*Posesion: Algo que el usuario debe tener como su telefono o una llave de acceso.
+*Inherencia: Esto se basa en datos biometricos del usuario como su huella o su cara.
+
+-- ¿Qué son las contraseñas de un solo uso?
+Las contraseñas de un solo uso son basicamente codigos que cambian de forma constante al momento de una personas poner su contraseñas como de manera comun este metodo OTP lo que hace es exigir que se necesite algo mas
+en este caso sera un codigo de 6 digitos que se necesita para confirmar que la cuenta es del usuario, este metodo es super bueno en contra el tipo de estafas como por ejemplo el credential stuffing como mencione antes
+este metodo de estafa lo que hace es rellenar datos que el usuario ya puso en una pagina el adversario llega a tener los datos del usuario y como de costumbre las contraseñas siempre se ponen para la mayoria de sus cuentas
+entonces lo que hace el metodo de OTP es que le pide un codigo lo que vuelve a este metodo credential stuffing no exitoso.
+
+
+
+
+
+
