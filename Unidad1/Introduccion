@@ -1,1 +1,26 @@
+# Unidad 1 - Introduccion dentro de la Ciberseguridad - Edutin Academy
+**Curso: Ciberseguridad - Edutin Academy
+Fecha: 25/02/2026
+
+En la primera Unidad voy a comprender amenazas como: La ingenieria social, phishing, credential stuffing y ataques intermedios.
+Aprendere practicas como: Contraseñas seguras, Auteticador 2FA, SSO, gestores y passkeys.
+
+## Amenzas principales explicadas
+
+* Ingenieria social
+Se basa en manipular de manera psicológica a las personas y que estas les lleguen a dar sus datos como sus contaseñas, datos bancarios o que lleguen a instalar virus.
+
+* Phishing
+El phishing es una tecnica de suplantacion de intendidad como podria llegar a ser una pagina legitima o una red social haciendo que el usuario revele sus datos persoanles y privados.
+
+* Credential stuffing
+Son bots automatizados que ponen datos registrados de personas, estos datos se venden por la darkweb y bueno como las personas suelen usar las mismas contraseñas para todo entonces
+basta con que una contraseña funcione, podria llegar a funcionar para las demas aplicaciones y esto lo que podria hacer es que hagan compras no deseadas o que vendan los datos a otros delincuentes.
+
+* Ataques intermedios
+El atacante se interpone en la comunicación entre el usuario y el servidor puede:
+- Ver todo el trafico
+- Robar cookies
+- Interceptar datos sensibles
+- Saber que apps tiene instaladas - Saber que apps tiene abiertas
 
