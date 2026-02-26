@@ -47,8 +47,14 @@ en este caso sera un codigo de 6 digitos que se necesita para confirmar que la c
 este metodo de estafa lo que hace es rellenar datos que el usuario ya puso en una pagina el adversario llega a tener los datos del usuario y como de costumbre las contraseñas siempre se ponen para la mayoria de sus cuentas
 entonces lo que hace el metodo de OTP es que le pide un codigo lo que vuelve a este metodo credential stuffing no exitoso.
 
+-- ¿Cómo funciona el inicio de sesión único?
+El SSO conocido como Single Sing On lo que hace es que yo puedo iniciar sesion de manera mas rapida y segura por ejemplo quiero crear una cuenta en facebook y quiero crearla mediante mi correo de google entonces le doy en el boton
+de crear cuenta mediante google al momento de darle se va abrir una ventana esta ventana me va pedir mi correo y mi contraseña al momento de darle gracias a un Token se cierra la ventana
+y la cuenta de facebook se crea de forma exitosa esta es una manera segura de poder crear una cuentas mediante el SSO inicio de sesion unico este tipo de iniciar sesion tiene ventajas que serian:
 
-
+* Facilita el registro: Elimina la necesidad de estar creando contraseñas para luego tener que recordarlas.
+* Ahorra tiempo: Evita la tediosa tarea de estar creando una contraseña segura con sibolos y variaciones de mayus con minus.
+* Mayor seguridad: Beneficia al usuario al heredar las buenas practicas de seguridad de las cuentas principales.
 
 
 
