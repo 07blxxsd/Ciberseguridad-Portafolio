@@ -56,5 +56,14 @@ y la cuenta de facebook se crea de forma exitosa esta es una manera segura de po
 * Ahorra tiempo: Evita la tediosa tarea de estar creando una contraseña segura con sibolos y variaciones de mayus con minus.
 * Mayor seguridad: Beneficia al usuario al heredar las buenas practicas de seguridad de las cuentas principales.
 
+-- ¿Qué es un administrador de contraseña?
+Un administrador de contraseña es una herramienta super esencial la que te ayuda a guardar tus contraseñas de forma segura ademas de guardar tus contraseñas de forma segura puede generar contraseñas de forma robustas guardando este tipo de contraseñas
+para cada cuenta unica.
+* Anti-phishing: Un administrador de contraseña guarda la URL de la pagina en la puede rellenar los datos, Si intentan hacer un phishing los gestores evitan que completen los datos porque el gestor guarda la URL legitima de la pagina.
+* Generacion de contraseñas fuertes: El gestor de contrseñas ademas de poder almacenar miles de contraseñas puede generar contraseñas super seguras que se usan para cada cuenta unica y de esta manera se mejora la seguridad de sus cuentas.
+* Gestion integral: Los administradores de contraseñas actuan como si fuera una boveda segura para guardar todas tus credenciales, de esta manera te puedes olvidar de recordar contraseñas ya que el gestor guarda las contrañas por ti.
 
-
+-- CLAVES DE ACCESO
+Las claves de acceso son la llave digital que abre las puertas de nuestros perfiles en linea y su funcion es servir como un mecanismo para autenticar que la cuenta a la que estamos ingresando es realmente nuestra. Si bien los gestores de contraseñas son herramientas
+esenciales, tambien presentan desafios, ya que la perdida de la contraseña maestra de tu boveda virtual significaria perder el acceso a todas tus cuentas. Sin embargo, no es para preocuparse tanto, ya que existe una alternativa cada vez mas popular llamada PASSKEYS.
+Estas claves de acceso dinamico son generadas por tu propio dispositivo, lo que elimina la necesidad de tener que recordarlas, ya que tu ordenador o móvil se encargan de la autenticacion por ti.
